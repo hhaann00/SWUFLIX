@@ -1,13 +1,12 @@
 # Swuflix
 
+**대표 이미지**
+
+<img src = "https://user-images.githubusercontent.com/65479467/180172403-b9297fa1-5917-4203-8f7f-bfbb1555d648.png" width="50%" height="50%">
 
 **소개**
 
 HTML/CSS로 넷플릭스 홈페이지를 본따 만든 카피 프로젝트입니다.
-
-**대표 이미지**
-<img src = "https://user-images.githubusercontent.com/65479467/180172403-b9297fa1-5917-4203-8f7f-bfbb1555d648.png" width="50%" height="50%">
-
 
 | 슈플릭스 | 내용 |
 |-------------------|-----------------------------------------------------------------|
