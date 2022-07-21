@@ -2,7 +2,7 @@
 
 **대표 이미지**
 
-<img src = "https://user-images.githubusercontent.com/65479467/180207340-8477cff7-c259-4b70-90d5-22c59a9f7d49.png" width="75%" height="75%">
+<img src = "https://user-images.githubusercontent.com/65479467/180207340-8477cff7-c259-4b70-90d5-22c59a9f7d49.png" width="50%" height="50%">
 
 
 **소개**
