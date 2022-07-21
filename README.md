@@ -2,7 +2,9 @@
 
 **대표 이미지**
 
-<img src = "https://user-images.githubusercontent.com/65479467/180207606-6f27a0c5-4e64-4c51-b15e-2f075f8975be.png" width="50%" height="50%"><img src = "https://user-images.githubusercontent.com/65479467/180207340-8477cff7-c259-4b70-90d5-22c59a9f7d49.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/65479467/180208742-30a02d3c-1b81-4a64-b8ab-780ff1bed530.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/65479467/180208850-a3bc395d-c33d-42e7-9860-ad032dbe247e.png" width="50%" height="50%">
+
 
 **소개**
 
