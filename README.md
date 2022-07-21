@@ -15,6 +15,7 @@ HTML/CSS로 넷플릭스 홈페이지를 본따 만든 카피 프로젝트입니
   
   
 **대표 이미지**
+![목업](https://user-images.githubusercontent.com/65479467/180172403-b9297fa1-5917-4203-8f7f-bfbb1555d648.png)
 
 
 **역할**
